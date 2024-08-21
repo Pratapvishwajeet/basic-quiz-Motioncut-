@@ -1,0 +1,49 @@
+1.Which of the following is a valid Python keyword?
+
+A) function
+B) define
+C) global
+D) module
+
+Correct Answer: C) global
+
+
+2.What is the correct extension of Python files?
+
+A) .pyth
+B) .pt
+C) .pyt
+D) .py
+
+Correct Answer: D) .py
+
+
+3.Which of the following is the correct way to import the math module in Python?
+
+A) import Math
+B) import math
+C) import maths
+D) import mathematics
+
+Correct Answer: B) import math
+
+
+4.Which of the following methods is used to add an element to the end of a list in Python?
+
+A) insert()
+B) append()
+C) add()
+D) extend()
+
+Correct Answer: B) append()
+
+
+
+5.Which of the following is not a standard Python data type?
+
+A) List
+B) Dictionary
+C) Tuple
+D) Array
+
+Correct Answer: D) Array
